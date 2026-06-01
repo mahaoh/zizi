@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-const base = process.env.BASE_PATH || '/'
+const base = process.env.BASE_PATH || '/zizi/'
 
 export default defineConfig({
   title: '子子制燥',
